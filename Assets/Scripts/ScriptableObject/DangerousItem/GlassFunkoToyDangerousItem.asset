@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 868b49e7338d508488d5fe21f39328ec, type: 3}
+  m_Name: GlassFunkoToyDangerousItem
+  m_EditorClassIdentifier: 
+  _itemPrefab: {fileID: 5996290737502538128, guid: 5abc706cb440b9942b7c27a00779ca3c,
+    type: 3}
